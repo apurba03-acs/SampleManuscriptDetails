@@ -1,0 +1,214 @@
+{
+    "manuscript":[
+        
+      {
+    "id": 1,
+    "manuscriptIdentifier": "MS-2025-001",
+    "vendor": "Vendor X",
+    "status": "In Review",
+    "dateAccepted": "2025-03-10",
+    "dateProofsSent": "2025-03-20",
+    "dateASAP": "2025-04-01",
+    "issueDate": "2025-05-01",
+    "correspondingAuthor": {
+      "name": "Alice Smith",
+      "email": "alice@example.com"
+    },
+    "editor": {
+      "name": "Dr. John Doe",
+      "email": "j.doe@editorial.org"
+    },
+    "manuscriptType": "Research Article",
+    "relatedManuscripts": ["MS-2024-077"],
+    "notesEO": "Requires special handling",
+    "notesGPO": "High priority",
+    "lateLetterStatus": "Escalated - Third Notice",
+    "jpaType": "Open Access",
+    "jpaValidity": "Valid until 2025-12-31",
+    "fundingInfo": "Funded by NIH"
+  },
+  {
+    "id": 2,
+    "manuscriptIdentifier": "DOI:10.1234/abc.2025.002",
+    "vendor": "Vendor Y",
+    "status": "Awaiting Proof",
+    "dateAccepted": "2025-02-15",
+    "dateProofsSent": "2025-03-01",
+    "dateASAP": "2025-03-10",
+    "issueDate": "2025-04-15",
+    "correspondingAuthor": {
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com"
+    },
+    "editor": {
+      "name": "Dr. Emily Chen",
+      "email": "e.chen@editorial.org"
+    },
+    "manuscriptType": "Review",
+    "relatedManuscripts": ["DOI:10.1234/abc.2024.034"],
+    "notesEO": "Clarification needed on figures",
+    "notesGPO": "Normal priority",
+    "lateLetterStatus": "",
+    "jpaType": "Subscription",
+    "jpaValidity": "Valid until 2026-01-31",
+    "fundingInfo": "None"
+  },
+  {
+    "id": 3,
+    "manuscriptIdentifier": "MS-2025-003",
+    "vendor": "Vendor Z",
+    "status": "Accepted",
+    "dateAccepted": "2025-01-20",
+    "dateProofsSent": "2025-02-01",
+    "dateASAP": "2025-02-10",
+    "issueDate": "2025-03-01",
+    "correspondingAuthor": {
+      "name": "Carol Lee",
+      "email": "carol.lee@example.com"
+    },
+    "editor": {
+      "name": "Dr. Mark Rivers",
+      "email": "m.rivers@editorial.org"
+    },
+    "manuscriptType": "Case Study",
+    "relatedManuscripts": [],
+    "notesEO": "Minor revisions suggested",
+    "notesGPO": "Reviewed and ready",
+    "lateLetterStatus": "",
+    "jpaType": "Open Access",
+    "jpaValidity": "Valid until 2025-09-30",
+    "fundingInfo": "Supported by NSF"
+  },
+  {
+    "id": 4,
+    "manuscriptIdentifier": "DOI:10.5678/journal.2025.004",
+    "vendor": "Vendor X",
+    "status": "Published",
+    "dateAccepted": "2024-12-15",
+    "dateProofsSent": "2025-01-05",
+    "dateASAP": "2025-01-10",
+    "issueDate": "2025-02-01",
+    "correspondingAuthor": {
+      "name": "Daniel Kim",
+"email": "dan.kim@example.com"
+    },
+    "editor": {
+      "name": "Dr. Priya Patel",
+      "email": "p.patel@editorial.org"
+    },
+    "manuscriptType": "Technical Note",
+    "relatedManuscripts": [],
+    "notesEO": "",
+    "notesGPO": "Archived",
+    "lateLetterStatus": "",
+    "jpaType": "Subscription",
+    "jpaValidity": "Valid until 2026-02-28",
+    "fundingInfo": "Institutional funding"
+  },
+  {
+    "id": 5,
+    "manuscriptIdentifier": "MS-2025-005",
+    "vendor": "Vendor Y",
+    "status": "Pending Author Revision",
+    "dateAccepted": "2025-03-01",
+    "dateProofsSent": "",
+    "dateASAP": "",
+    "issueDate": "",
+    "correspondingAuthor": {
+      "name": "Eva Brown",
+      "email": "eva.brown@example.com"
+    },
+    "editor": {
+      "name": "Dr. Ahmed Noor",
+      "email": "a.noor@editorial.org"
+    },
+    "manuscriptType": "Short Communication",
+    "relatedManuscripts": ["MS-2024-089", "MS-2023-045"],
+    "notesEO": "Waiting for author response",
+    "notesGPO": "Hold",
+    "lateLetterStatus": "",
+    "jpaType": "Open Access",
+    "jpaValidity": "Valid until 2025-11-30",
+    "fundingInfo": "Wellcome Trust"
+  },
+  {
+    "id": 6,
+    "manuscriptIdentifier": "DOI:10.9876/xzy.2025.006",
+    "vendor": "Vendor Z",
+    "status": "Returned to Vendor",
+    "dateAccepted": "2025-02-10",
+    "dateProofsSent": "2025-02-20",
+    "dateASAP": "",
+    "issueDate": "",
+    "correspondingAuthor": {
+      "name": "Frank Green",
+"email": "frank.green@example.com"
+    },
+    "editor": {
+      "name": "Dr. Rita Banerjee",
+      "email": "r.banerjee@editorial.org"
+    },
+    "manuscriptType": "Editorial",
+    "relatedManuscripts": [],
+    "notesEO": "Returned for formatting issues",
+    "notesGPO": "Reprocessing required",
+    "lateLetterStatus": "Escalated - Third Notice",
+    "jpaType": "Subscription",
+    "jpaValidity": "Valid until 2026-03-15",
+    "fundingInfo": "None"
+  },
+  {
+    "id": 7,
+    "manuscriptIdentifier": "MS-2025-007",
+    "vendor": "Vendor X",
+    "status": "Typeset",
+    "dateAccepted": "2025-04-01",
+    "dateProofsSent": "2025-04-10",
+    "dateASAP": "2025-04-15",
+    "issueDate": "",
+    "correspondingAuthor": {
+      "name": "Grace Hill",
+      "email": "grace.hill@example.com"
+    },
+    "editor": {
+      "name": "Dr. Omar Sanchez",
+      "email": "o.sanchez@editorial.org"
+    },
+    "manuscriptType": "Perspective",
+    "relatedManuscripts": ["MS-2025-003"],
+    "notesEO": "",
+    "notesGPO": "Almost ready",
+    "lateLetterStatus": "",
+    "jpaType": "Open Access",
+    "jpaValidity": "Valid until 2026-04-30",
+    "fundingInfo": "NSERC funded"
+  },
+  {
+    "id": 8,
+    "manuscriptIdentifier": "DOI:10.1357/xyz.2025.008",
+    "vendor": "Vendor Y",
+    "status": "Under GPO Review",
+    "dateAccepted": "2025-03-12",
+    "dateProofsSent": "2025-03-25",
+    "dateASAP": "",
+    "issueDate": "",
+    "correspondingAuthor": {
+      "name": "Henry Adams",
+      "email": "henry.adams@example.com"
+    },
+    "editor": {
+      "name": "Dr. Sara Lin",
+      "email": "s.lin@editorial.org"
+    },
+    "manuscriptType": "Letter",
+    "relatedManuscripts": [],
+    "notesEO": "Figures require better resolution",
+    "notesGPO": "Under second review",
+    "lateLetterStatus": "",
+    "jpaType": "Open Access",
+    "jpaValidity": "Valid until 2026-03-01",
+    "fundingInfo": "Internal research grant"
+  } 
+
+    ]
+}
