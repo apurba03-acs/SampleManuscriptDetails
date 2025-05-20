@@ -25,7 +25,8 @@
     "lateLetterStatus": "Escalated - Third Notice",
     "jpaType": "Open Access",
     "jpaValidity": "Valid until 2025-12-31",
-    "fundingInfo": "Funded by NIH"
+    "fundingInfo": "Funded by NIH",
+    "manuscriptFileUrl": "https://example.com/files/manuscript-123.pdf"
   },
   {
     "id": 2,
@@ -51,7 +52,8 @@
     "lateLetterStatus": "",
     "jpaType": "Subscription",
     "jpaValidity": "Valid until 2026-01-31",
-    "fundingInfo": "None"
+    "fundingInfo": "None",
+     "manuscriptFileUrl": ""
   },
   {
     "id": 3,
@@ -77,7 +79,8 @@
     "lateLetterStatus": "",
     "jpaType": "Open Access",
     "jpaValidity": "Valid until 2025-09-30",
-    "fundingInfo": "Supported by NSF"
+    "fundingInfo": "Supported by NSF",
+    "manuscriptFileUrl": "https://example.com/files/manuscript-123.pdf"
   },
   {
     "id": 4,
@@ -103,7 +106,8 @@
     "lateLetterStatus": "",
     "jpaType": "Subscription",
     "jpaValidity": "Valid until 2026-02-28",
-    "fundingInfo": "Institutional funding"
+    "fundingInfo": "Institutional funding",
+     "manuscriptFileUrl": ""
   },
   {
     "id": 5,
@@ -129,7 +133,8 @@
     "lateLetterStatus": "",
     "jpaType": "Open Access",
     "jpaValidity": "Valid until 2025-11-30",
-    "fundingInfo": "Wellcome Trust"
+    "fundingInfo": "Wellcome Trust",
+    "manuscriptFileUrl": ""
   },
   {
     "id": 6,
@@ -155,7 +160,8 @@
     "lateLetterStatus": "Escalated - Third Notice",
     "jpaType": "Subscription",
     "jpaValidity": "Valid until 2026-03-15",
-    "fundingInfo": "None"
+    "fundingInfo": "None",
+     "manuscriptFileUrl": "https://example.com/files/manuscript-123.pdf"
   },
   {
     "id": 7,
@@ -181,7 +187,8 @@
     "lateLetterStatus": "",
     "jpaType": "Open Access",
     "jpaValidity": "Valid until 2026-04-30",
-    "fundingInfo": "NSERC funded"
+    "fundingInfo": "NSERC funded",
+    "manuscriptFileUrl": ""
   },
   {
     "id": 8,
@@ -207,7 +214,8 @@
     "lateLetterStatus": "",
     "jpaType": "Open Access",
     "jpaValidity": "Valid until 2026-03-01",
-    "fundingInfo": "Internal research grant"
+    "fundingInfo": "Internal research grant",
+     "manuscriptFileUrl": "https://example.com/files/manuscript-123.pdf"
   } 
 
     ]
