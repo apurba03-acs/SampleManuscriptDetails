@@ -3,7 +3,10 @@
         
       {
     "id": 1,
-    "manuscriptIdentifier": "MS-2025-001",
+    "manuscriptIdentifier":{
+     "manuscriptId": "MS2025001",
+     "doi": "D243109",
+    }
     "vendor": "Vendor X",
     "status": "In Review",
     "dateAccepted": "2025-03-10",
@@ -30,7 +33,10 @@
   },
   {
     "id": 2,
-    "manuscriptIdentifier": "DOI:10.1234/abc.2025.002",
+    "manuscriptIdentifier":{
+     "manuscriptId": "MS202559801",
+     "doi": "D2409109",
+    }
     "vendor": "Vendor Y",
     "status": "Awaiting Proof",
     "dateAccepted": "2025-02-15",
@@ -57,7 +63,10 @@
   },
   {
     "id": 3,
-    "manuscriptIdentifier": "MS-2025-003",
+    "manuscriptIdentifier":{
+     "manuscriptId": "MS2025001",
+     "doi": "D243109",
+    }
     "vendor": "Vendor Z",
     "status": "Accepted",
     "dateAccepted": "2025-01-20",
@@ -84,7 +93,10 @@
   },
   {
     "id": 4,
-    "manuscriptIdentifier": "DOI:10.5678/journal.2025.004",
+    "manuscriptIdentifier":{
+     "manuscriptId": "MS12301",
+     "doi": "D249879",
+    }
     "vendor": "Vendor X",
     "status": "Published",
     "dateAccepted": "2024-12-15",
@@ -111,7 +123,10 @@
   },
   {
     "id": 5,
-    "manuscriptIdentifier": "MS-2025-005",
+    "manuscriptIdentifier":{
+     "manuscriptId": "MS2025001",
+     "doi": "D243109",
+    }
     "vendor": "Vendor Y",
     "status": "Pending Author Revision",
     "dateAccepted": "2025-03-01",
@@ -138,7 +153,10 @@
   },
   {
     "id": 6,
-    "manuscriptIdentifier": "DOI:10.9876/xzy.2025.006",
+    "manuscriptIdentifier":{
+     "manuscriptId": "MS2876541",
+     "doi": "D247654",
+    }
     "vendor": "Vendor Z",
     "status": "Returned to Vendor",
     "dateAccepted": "2025-02-10",
@@ -165,7 +183,10 @@
   },
   {
     "id": 7,
-    "manuscriptIdentifier": "MS-2025-007",
+    "manuscriptIdentifier":{
+     "manuscriptId": "MS2009001",
+     "doi": "D203109",
+    }
     "vendor": "Vendor X",
     "status": "Typeset",
     "dateAccepted": "2025-04-01",
@@ -192,7 +213,10 @@
   },
   {
     "id": 8,
-    "manuscriptIdentifier": "DOI:10.1357/xyz.2025.008",
+    "manuscriptIdentifier":{
+     "manuscriptId": "MS2025001",
+     "doi": "D243109",
+    }
     "vendor": "Vendor Y",
     "status": "Under GPO Review",
     "dateAccepted": "2025-03-12",
