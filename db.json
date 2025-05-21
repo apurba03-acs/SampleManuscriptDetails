@@ -6,7 +6,7 @@
     "manuscriptIdentifier":{
      "manuscriptId": "MS2025001",
      "doi": "D243109",
-    }
+    },
     "vendor": "Vendor X",
     "status": "In Review",
     "dateAccepted": "2025-03-10",
@@ -36,7 +36,7 @@
     "manuscriptIdentifier":{
      "manuscriptId": "MS202559801",
      "doi": "D2409109",
-    }
+    },
     "vendor": "Vendor Y",
     "status": "Awaiting Proof",
     "dateAccepted": "2025-02-15",
@@ -66,7 +66,7 @@
     "manuscriptIdentifier":{
      "manuscriptId": "MS2025001",
      "doi": "D243109",
-    }
+    },
     "vendor": "Vendor Z",
     "status": "Accepted",
     "dateAccepted": "2025-01-20",
@@ -96,7 +96,7 @@
     "manuscriptIdentifier":{
      "manuscriptId": "MS12301",
      "doi": "D249879",
-    }
+    },
     "vendor": "Vendor X",
     "status": "Published",
     "dateAccepted": "2024-12-15",
@@ -126,7 +126,7 @@
     "manuscriptIdentifier":{
      "manuscriptId": "MS2025001",
      "doi": "D243109",
-    }
+    },
     "vendor": "Vendor Y",
     "status": "Pending Author Revision",
     "dateAccepted": "2025-03-01",
@@ -156,7 +156,7 @@
     "manuscriptIdentifier":{
      "manuscriptId": "MS2876541",
      "doi": "D247654",
-    }
+    },
     "vendor": "Vendor Z",
     "status": "Returned to Vendor",
     "dateAccepted": "2025-02-10",
@@ -186,7 +186,7 @@
     "manuscriptIdentifier":{
      "manuscriptId": "MS2009001",
      "doi": "D203109",
-    }
+    },
     "vendor": "Vendor X",
     "status": "Typeset",
     "dateAccepted": "2025-04-01",
@@ -216,7 +216,7 @@
     "manuscriptIdentifier":{
      "manuscriptId": "MS2025001",
      "doi": "D243109",
-    }
+    },
     "vendor": "Vendor Y",
     "status": "Under GPO Review",
     "dateAccepted": "2025-03-12",
