@@ -27,6 +27,8 @@
     "jpaType": "Open Access",
     "jpaValidity": "Valid until 2025-12-31",
     "fundingInfo": "Funded by NIH",
+    "lastEditedByRelated": "Alice",
+    "lastEditedByNotes": "Bob",
     "manuscriptFileUrl": "https://example.com/files/manuscript-123.pdf"
   },
   {
@@ -55,6 +57,8 @@
     "jpaType": "Subscription",
     "jpaValidity": "Valid until 2026-01-31",
     "fundingInfo": "None",
+      "lastEditedByRelated": "Alica",
+    "lastEditedByNotes": "Cris",
      "manuscriptFileUrl": ""
   },
   {
@@ -83,6 +87,8 @@
     "jpaType": "Open Access",
     "jpaValidity": "Valid until 2025-09-30",
     "fundingInfo": "Supported by NSF",
+      "lastEditedByRelated": "Joe",
+    "lastEditedByNotes": "Kay",
     "manuscriptFileUrl": "https://example.com/files/manuscript-123.pdf"
   },
   {
@@ -111,6 +117,8 @@
     "jpaType": "Subscription",
     "jpaValidity": "Valid until 2026-02-28",
     "fundingInfo": "Institutional funding",
+      "lastEditedByRelated": "Damon",
+    "lastEditedByNotes": "Elena",
      "manuscriptFileUrl": ""
   },
   {
@@ -139,6 +147,8 @@
     "jpaType": "Open Access",
     "jpaValidity": "Valid until 2025-11-30",
     "fundingInfo": "Wellcome Trust",
+      "lastEditedByRelated": "Kat",
+    "lastEditedByNotes": "Damon",
     "manuscriptFileUrl": ""
   },
   {
@@ -167,6 +177,8 @@
     "jpaType": "Subscription",
     "jpaValidity": "Valid until 2026-03-15",
     "fundingInfo": "None",
+      "lastEditedByRelated": "Klaus",
+    "lastEditedByNotes": "Elijah",
      "manuscriptFileUrl": "https://example.com/files/manuscript-123.pdf"
   },
   {
@@ -195,6 +207,8 @@
     "jpaType": "Open Access",
     "jpaValidity": "Valid until 2026-04-30",
     "fundingInfo": "NSERC funded",
+       "lastEditedByRelated": "Klaus",
+    "lastEditedByNotes": "Elijah",
     "manuscriptFileUrl": ""
   },
   {
@@ -223,6 +237,8 @@
     "jpaType": "Open Access",
     "jpaValidity": "Valid until 2026-03-01",
     "fundingInfo": "Internal research grant",
+       "lastEditedByRelated": "Kol",
+    "lastEditedByNotes": "Amara",
      "manuscriptFileUrl": "https://example.com/files/manuscript-123.pdf"
   } 
 
