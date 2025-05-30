@@ -20,7 +20,7 @@
       "email": "j.doe@editorial.org"
     },
     "manuscriptType": "Research Article",
-    "relatedManuscripts": ["MS-2024-077"],
+    "relatedManuscripts": ["MS-2024-077","MS-2024-077","MS-2024-077","MS-2024-077"],
     "notesEO": "Requires special handling",
     "notesGPO": "High priority",
     "lateLetterStatus": "Escalated - Third Notice",
@@ -50,7 +50,7 @@
       "email": "e.chen@editorial.org"
     },
     "manuscriptType": "Review",
-    "relatedManuscripts": ["DOI:10.1234/abc.2024.034"],
+    "relatedManuscripts": ["MS-2024-077","MS-2024-077","MS-2024-077"],
     "notesEO": "Clarification needed on figures",
     "notesGPO": "Normal priority",
     "lateLetterStatus": "",
@@ -200,7 +200,7 @@
       "email": "o.sanchez@editorial.org"
     },
     "manuscriptType": "Perspective",
-    "relatedManuscripts": ["MS-2025-003"],
+    "relatedManuscripts": ["MS-2025-003","MS-2024-077","MS-2024-077","MS-2024-077"],
     "notesEO": "",
     "notesGPO": "Almost ready",
     "lateLetterStatus": "",
